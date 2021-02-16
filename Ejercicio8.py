@@ -1,3 +1,8 @@
+#   8.Calcular la fuerza que se debe aplicar a un cuerpo para moverlo en una mesa horizontal,  
+#   sabiendo que tiene una masa m (kg) y un coeficiente de rozamiento estático  Us.
+
+
+
 
 PesoNewton = int(input("Peso del artculo" ))
 rosamientoestatico = float(input("rosamieno estatico de :"))
