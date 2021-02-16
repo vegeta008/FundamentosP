@@ -1,3 +1,4 @@
+#3.Realice un programa que obtenga el índice de masa corporal de una persona, ingresando la estatura en centímetros y el peso en kilos.
 # -*- coding: utf-8 -*-
 """
 
