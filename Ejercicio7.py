@@ -1,3 +1,7 @@
+#   7.Realice un programa que simule una calculadora básica, con 
+#   las operaciones: suma, resta, multiplicación, división y potencia.
+
+#
 # -*- coding: utf-8 -*-
 """
 @author: aorozco@dragonjar.org
