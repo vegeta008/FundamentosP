@@ -1,3 +1,6 @@
+#   6.Realice un programa que resuelva lo siguiente: Si n Empleados  realizan una actividad en k horas, 
+#   ¿cuántos empleados se necesitarán para realizar la misma actividad en k1 horas?
+
 # -*- coding: utf-8 -*-
 """
 @author: aorozco@dragonjar.org
