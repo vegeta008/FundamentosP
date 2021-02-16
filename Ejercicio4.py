@@ -1,3 +1,7 @@
+#   4.Realice un programa que obtenga la calificación que debe obtenerse en un 
+#   examen supletorio, si se conoce que el promedio incluido el supletorio para aprobar debe 
+#   ser mínimo de 3.5 . El usuario debe ingresar las calificaciones en números enteros del primer y segundo bimestre.
+
 # -*- coding: utf-8 -*-
 """4
 
