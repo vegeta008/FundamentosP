@@ -1,3 +1,5 @@
+#   10.Calcular el área y perímetro de un rectángulo.
+
 class Recatangulo:
     def __init__(self,ancho,alto):
         self.ancho=ancho
